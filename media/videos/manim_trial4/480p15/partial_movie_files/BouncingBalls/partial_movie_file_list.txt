@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/yamen/Desktop/Temporary/media/videos/manim_trial4/480p15/partial_movie_files/BouncingBalls/1185818338_2241654385_223132457.mp4'
+file 'file:C:/Users/yamen/Desktop/Temporary/media/videos/manim_trial4/480p15/partial_movie_files/BouncingBalls/624642324_1432596116_2302345036.mp4'
+file 'file:C:/Users/yamen/Desktop/Temporary/media/videos/manim_trial4/480p15/partial_movie_files/BouncingBalls/624642324_1063460911_1942655730.mp4'
+file 'file:C:/Users/yamen/Desktop/Temporary/media/videos/manim_trial4/480p15/partial_movie_files/BouncingBalls/624642324_2064454659_1942655730.mp4'
+file 'file:C:/Users/yamen/Desktop/Temporary/media/videos/manim_trial4/480p15/partial_movie_files/BouncingBalls/624642324_1063460911_1942655730.mp4'
+file 'file:C:/Users/yamen/Desktop/Temporary/media/videos/manim_trial4/480p15/partial_movie_files/BouncingBalls/624642324_2064454659_1942655730.mp4'
+file 'file:C:/Users/yamen/Desktop/Temporary/media/videos/manim_trial4/480p15/partial_movie_files/BouncingBalls/624642324_1063460911_1942655730.mp4'
+file 'file:C:/Users/yamen/Desktop/Temporary/media/videos/manim_trial4/480p15/partial_movie_files/BouncingBalls/624642324_2064454659_1942655730.mp4'
+file 'file:C:/Users/yamen/Desktop/Temporary/media/videos/manim_trial4/480p15/partial_movie_files/BouncingBalls/624642324_3405311002_1942655730.mp4'
+file 'file:C:/Users/yamen/Desktop/Temporary/media/videos/manim_trial4/480p15/partial_movie_files/BouncingBalls/624642324_342894365_1942655730.mp4'
+file 'file:C:/Users/yamen/Desktop/Temporary/media/videos/manim_trial4/480p15/partial_movie_files/BouncingBalls/624642324_1432596116_210259938.mp4'

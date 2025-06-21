@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/yamen/Desktop/Temporary/media/videos/manim_trial3/480p15/partial_movie_files/CoolAnimation/1185818338_3130780574_223132457.mp4'
+file 'file:C:/Users/yamen/Desktop/Temporary/media/videos/manim_trial3/480p15/partial_movie_files/CoolAnimation/624642324_1432596116_4072805855.mp4'
+file 'file:C:/Users/yamen/Desktop/Temporary/media/videos/manim_trial3/480p15/partial_movie_files/CoolAnimation/624642324_3566250785_816621019.mp4'
+file 'file:C:/Users/yamen/Desktop/Temporary/media/videos/manim_trial3/480p15/partial_movie_files/CoolAnimation/624642324_1432596116_701443546.mp4'
+file 'file:C:/Users/yamen/Desktop/Temporary/media/videos/manim_trial3/480p15/partial_movie_files/CoolAnimation/624642324_2087026663_2128856360.mp4'
+file 'file:C:/Users/yamen/Desktop/Temporary/media/videos/manim_trial3/480p15/partial_movie_files/CoolAnimation/624642324_1432596116_518356675.mp4'
+file 'file:C:/Users/yamen/Desktop/Temporary/media/videos/manim_trial3/480p15/partial_movie_files/CoolAnimation/624642324_1811027405_1948162026.mp4'
+file 'file:C:/Users/yamen/Desktop/Temporary/media/videos/manim_trial3/480p15/partial_movie_files/CoolAnimation/624642324_4277570474_2847645683.mp4'

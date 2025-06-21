@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/yamen/Desktop/Temporary/media/videos/manim_trial2/480p15/partial_movie_files/MySecondMathScene/1185818338_1295220008_223132457.mp4'
+file 'file:C:/Users/yamen/Desktop/Temporary/media/videos/manim_trial2/480p15/partial_movie_files/MySecondMathScene/624642324_938240396_32612254.mp4'
+file 'file:C:/Users/yamen/Desktop/Temporary/media/videos/manim_trial2/480p15/partial_movie_files/MySecondMathScene/624642324_4103424675_568236664.mp4'
+file 'file:C:/Users/yamen/Desktop/Temporary/media/videos/manim_trial2/480p15/partial_movie_files/MySecondMathScene/624642324_2872842549_3525511742.mp4'
